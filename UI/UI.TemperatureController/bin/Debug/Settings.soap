@@ -1,0 +1,56 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="xsd:anyType[25,2]">
+<item id="ref-2" xsi:type="SOAP-ENC:string">_Device</item>
+<item id="ref-3" xsi:type="SOAP-ENC:string">dev2</item>
+<item id="ref-4" xsi:type="SOAP-ENC:string">_TemperatureDaqInput</item>
+<item id="ref-5" xsi:type="SOAP-ENC:string">ai2</item>
+<item id="ref-6" xsi:type="SOAP-ENC:string">_TemperatureDaqOutput</item>
+<item id="ref-7" xsi:type="SOAP-ENC:string">ao0</item>
+<item id="ref-8" xsi:type="SOAP-ENC:string">_MWDaqInput</item>
+<item id="ref-9" xsi:type="SOAP-ENC:string">ai0</item>
+<item id="ref-10" xsi:type="SOAP-ENC:string">_COMPortBaudRate</item>
+<item xsi:type="xsd:int">115200</item>
+<item id="ref-11" xsi:type="SOAP-ENC:string">_COMPortParity</item>
+<item xsi:type="a2:Parity" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.IO.Ports/System%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">None</item>
+<item id="ref-13" xsi:type="SOAP-ENC:string">_COMPortDataBits</item>
+<item xsi:type="xsd:int">8</item>
+<item id="ref-14" xsi:type="SOAP-ENC:string">_COMPortStopBits</item>
+<item xsi:type="a2:StopBits" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.IO.Ports/System%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">One</item>
+<item id="ref-15" xsi:type="SOAP-ENC:string">_Vmin</item>
+<item xsi:type="xsd:double">0</item>
+<item id="ref-16" xsi:type="SOAP-ENC:string">_Vmax</item>
+<item xsi:type="xsd:double">10</item>
+<item id="ref-17" xsi:type="SOAP-ENC:string">_Tmin</item>
+<item xsi:type="xsd:double">1</item>
+<item id="ref-18" xsi:type="SOAP-ENC:string">_Tmax</item>
+<item xsi:type="xsd:double">50</item>
+<item id="ref-19" xsi:type="SOAP-ENC:string">_Rmin</item>
+<item xsi:type="xsd:double">300</item>
+<item id="ref-20" xsi:type="SOAP-ENC:string">_Rmax</item>
+<item xsi:type="xsd:double">4000</item>
+<item id="ref-21" xsi:type="SOAP-ENC:string">_IsTempRange</item>
+<item xsi:type="xsd:boolean">false</item>
+<item id="ref-22" xsi:type="SOAP-ENC:string">_IsResistanceRange</item>
+<item xsi:type="xsd:boolean">true</item>
+<item id="ref-23" xsi:type="SOAP-ENC:string">_Kp</item>
+<item xsi:type="xsd:double">0</item>
+<item id="ref-24" xsi:type="SOAP-ENC:string">_Ki</item>
+<item xsi:type="xsd:double">0</item>
+<item id="ref-25" xsi:type="SOAP-ENC:string">_Kd</item>
+<item xsi:type="xsd:double">0</item>
+<item id="ref-26" xsi:type="SOAP-ENC:string">_PIDScale</item>
+<item xsi:type="xsd:double">0</item>
+<item id="ref-27" xsi:type="SOAP-ENC:string">_PIDVmin</item>
+<item xsi:type="xsd:double">0</item>
+<item id="ref-28" xsi:type="SOAP-ENC:string">_PIDVmax</item>
+<item xsi:type="xsd:double">0</item>
+<item id="ref-29" xsi:type="SOAP-ENC:string">_MWPower</item>
+<item xsi:type="xsd:int">100</item>
+<item id="ref-30" xsi:type="SOAP-ENC:string">_MWFrequency</item>
+<item xsi:type="xsd:double">94000</item>
+<item id="ref-31" xsi:type="SOAP-ENC:string">&#60;MWStateMessage&#62;k__BackingField</item>
+<item id="ref-32" xsi:type="SOAP-ENC:string"></item>
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

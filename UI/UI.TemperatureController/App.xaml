@@ -1,0 +1,70 @@
+<Application
+    x:Class="UI.TemperatureController.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:AttachedProps="clr-namespace:UI.TemperatureController.AttachedProps"
+    xmlns:Converters="clr-namespace:UI.TemperatureController.Converters"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:d1p1="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:UI.TemperatureController"
+    xmlns:logic="clr-namespace:Logic.TemperatureController;assembly=Logic.TemperatureController"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    xmlns:vm="clr-namespace:Logic.TemperatureController.ViewModels;assembly=Logic.TemperatureController"
+    d1p1:Ignorable="d"
+    ShutdownMode="OnMainWindowClose"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <logic:TimersManager x:Key="TimersManager" />
+            <local:ChildWindowsManager x:Key="ChildWindowsManager" />
+
+            <vm:ViewModelLocator x:Key="Locator" d:IsDataSource="True" />
+
+            <!--  Defines the template for elements that contain a data error  -->
+            <ControlTemplate x:Key="ErrorTemplate">
+                <DockPanel LastChildFill="True">
+                    <Border
+                        BorderBrush="Orange"
+                        BorderThickness="1"
+                        DockPanel.Dock="Top">
+                        <AdornedElementPlaceholder />
+                    </Border>
+                </DockPanel>
+            </ControlTemplate>
+
+            <!--  Panel border style  -->
+            <Style x:Key="panelBorder" TargetType="Border">
+                <Setter Property="Margin" Value="0" />
+                <Setter Property="Padding" Value="10,5" />
+                <Setter Property="CornerRadius" Value="0" />
+                <Setter Property="BorderBrush" Value="Silver" />
+                <Setter Property="BorderThickness" Value="2" />
+            </Style>
+
+            <!--  Style for TextBox with validation  -->
+            <Style x:Key="validatableTextBox" TargetType="TextBox">
+                <Setter Property="Margin" Value="5" />
+                <Setter Property="Padding" Value="1,0" />
+                <Setter Property="MinWidth" Value="60" />
+                <Setter Property="MaxWidth" Value="120" />
+                <Setter Property="TextAlignment" Value="Center" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="Margin" Value="5" />
+                <Setter Property="Validation.ErrorTemplate" Value="{StaticResource ErrorTemplate}" />
+                <Setter Property="AttachedProps:InputBindingsManager.UpdateWhenEnterPressed" Value="True" />
+                <Style.Triggers>
+                    <Trigger Property="Validation.HasError" Value="True">
+                        <Setter Property="ToolTip" Value="{Binding (Validation.Errors).CurrentItem.ErrorContent, RelativeSource={x:Static RelativeSource.Self}}" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+
+            <!--  Converters  -->
+            <Converters:BooleanToAdjusterConverter x:Key="BooleanToAdjusterConverter" />
+            <Converters:MultiRangeConverter x:Key="MultiRangeConverter" />
+            <Converters:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+            <Converters:MWModeToVisibilityConverter x:Key="MWModeToVisibilityConverter" />
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,20 @@
+﻿UI.TemperatureController
+
+
+winexe
+C#
+.cs
+D:\Roman_Measurement Studio\Applications\TemperatureController\UI\UI.TemperatureController\obj\Debug\
+UI.TemperatureController
+none
+false
+DEBUG;TRACE
+D:\Roman_Measurement Studio\Applications\TemperatureController\UI\UI.TemperatureController\App.xaml
+8-1187479877
+
+19-2075928317
+81-1134045162
+MainWindow.xaml;Views\COMSettingsView.xaml;Views\HelpView.xaml;Views\MWControllerView.xaml;Views\PidControllerView.xaml;Views\SynchronizationView.xaml;Views\TemperatureHistoryView.xaml;Views\VoltageControlView.xaml;
+
+False
+

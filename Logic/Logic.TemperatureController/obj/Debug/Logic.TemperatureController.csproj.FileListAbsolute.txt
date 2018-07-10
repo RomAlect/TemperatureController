@@ -1,0 +1,76 @@
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\Logic.TemperatureController.dll.config
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\Logic.TemperatureController.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\Logic.TemperatureController.pdb
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\CommonServiceLocator.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Common.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Booleans.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Graphs.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Numerics.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.DAQmx.ComponentModel.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\PropertyChanged.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\System.Windows.Interactivity.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.MStudioCLM.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Common.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Booleans.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Graphs.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Numerics.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.DAQmx.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.DAQmx.ComponentModel.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\PropertyChanged.xml
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.csproj.CoreCompileInputs.cache
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.csproj.CopyComplete
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.dll
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.pdb
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.dll.licenses
+D:\Roman.Yandex.Disk\MyApps\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.csprojResolveAssemblyReference.cache
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.dll.licenses
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.pdb
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.csproj.CoreCompileInputs.cache
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\Logic.TemperatureController.dll.config
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\Logic.TemperatureController.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\Logic.TemperatureController.pdb
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\CommonServiceLocator.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Common.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Booleans.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Graphs.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Numerics.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.DAQmx.ComponentModel.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\PropertyChanged.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\System.Windows.Interactivity.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.MStudioCLM.dll
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Common.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Booleans.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Graphs.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.Controls.Numerics.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.DAQmx.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\NationalInstruments.DAQmx.ComponentModel.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\bin\Debug\PropertyChanged.xml
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.csproj.CopyComplete
+D:\Roman_Measurement Studio\Applications\TemperatureController\Logic\Logic.TemperatureController\obj\Debug\Logic.TemperatureController.csprojResolveAssemblyReference.cache

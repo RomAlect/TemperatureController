@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".shared", ".shared", "{7D8A0A0F-553F-406D-9330-6DC729722E7B}"
+	ProjectSection(SolutionItems) = preProject
+		.shared\licenses.licx = .shared\licenses.licx
+		.shared\SharedAssemblyInfo.cs = .shared\SharedAssemblyInfo.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logic", "Logic", "{ACFBFC7E-607E-4B99-8028-BDBDC330655A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{CCB08C6B-D61B-4E85-AEEC-409623D05687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic.TemperatureController", "Logic\Logic.TemperatureController\Logic.TemperatureController.csproj", "{AB89434E-8762-4716-8606-FE9DACB07B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.TemperatureController", "UI\UI.TemperatureController\UI.TemperatureController.csproj", "{524EDB31-FB40-4C23-917C-6E9B1020CCA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB89434E-8762-4716-8606-FE9DACB07B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB89434E-8762-4716-8606-FE9DACB07B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB89434E-8762-4716-8606-FE9DACB07B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB89434E-8762-4716-8606-FE9DACB07B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524EDB31-FB40-4C23-917C-6E9B1020CCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524EDB31-FB40-4C23-917C-6E9B1020CCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524EDB31-FB40-4C23-917C-6E9B1020CCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524EDB31-FB40-4C23-917C-6E9B1020CCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB89434E-8762-4716-8606-FE9DACB07B0F} = {ACFBFC7E-607E-4B99-8028-BDBDC330655A}
+		{524EDB31-FB40-4C23-917C-6E9B1020CCA8} = {CCB08C6B-D61B-4E85-AEEC-409623D05687}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9990264-E0F7-4C24-85C5-BA055845AD96}
+	EndGlobalSection
+EndGlobal
